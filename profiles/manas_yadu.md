@@ -1,7 +1,7 @@
-# First and Last Name
+# Manas Yadu
 
 ### Location
-Your City, State, Country
+Balods, State, Country
 
 ### Academics
 - List of Education
